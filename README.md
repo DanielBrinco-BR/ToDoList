@@ -1,4 +1,4 @@
-<h2>Projeto de conclusão do curso **Santander Bootcamp | Mobile Developer** - Plataforma Digital Innovation One</h2>
+<h2>Projeto de conclusão do curso <b>Santander Bootcamp | Mobile Developer</b> - Plataforma Digital Innovation One</h2>
 
 Projeto desenvolvido com base no módulo final do curso Santander Bootcamp | Mobile Developer "Criando um App de Lembretes e Tarefas com Kotlin", ministrado pelo instrutor da Digital Innovation One Ezequiel Messore.
 
